@@ -1,4 +1,4 @@
-# Hi there, I'm Jane Doe! 👋
+# Hi there, I'm Jewel Hasan! 👋
 
 I'm a full-stack developer passionate about building scalable web applications. Welcome to my GitHub profile!
 
