@@ -7,12 +7,12 @@ I'm a full-stack developer passionate about building scalable web applications. 
 - 🌱 I’m currently learning GraphQL and Kubernetes.
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about JavaScript, React, or Node.js.
-- 📫 How to reach me: jane.doe@example.com.
+- 📫 How to reach me: jewelhasan.eee@gmail.com.
 - 😄 Pronouns: She/Her.
 - ⚡ Fun fact: I love hiking and photography!
 
 ## My Skills
-- **Languages**: JavaScript, Python, TypeScript
+- **Languages**: JavaScript, 
 - **Frameworks**: React, Node.js, Express
 - **Tools**: Git, Docker, VS Code
 
