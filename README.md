@@ -14,7 +14,8 @@ I'm a full-stack developer passionate about building scalable web applications. 
 ## My Skills
 - **Languages**: JavaScript, 
 - **Frameworks**: React, Node.js, Express
-- **Tools**: Git, Docker, VS Code
+- **Tools**: Git, VS Code
+- **Database**: MongoDB
 
 ## My Projects
 Here are some of my favorite projects:
